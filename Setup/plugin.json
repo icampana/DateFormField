@@ -1,0 +1,7 @@
+{
+    "title": "Date form field",
+    "version": "1.00",
+    "name": "DateFormField",
+    "description": "Creates a simple Date Form field to be able to use in your projects, either in a form or in a Grid.",
+    "author": "DomoWebTI"
+}
